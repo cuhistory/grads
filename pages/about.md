@@ -18,7 +18,7 @@ Aside from merely providing access to the wealth of graduate research conducted 
 
 {% include feature/image.html objectid="hist_317" width="100" caption="Rob Blades used geolocated soundscapes to tell industrial history" %}
 
-{% include feature/image.html objectid="hist_15" width="100" caption="Kaitlyn Brasseur built a scholarly edition of medieval texts held by Carleton's MacOdrum Library" %}
+{% include feature/image.html objectid="hist_15" width="50" caption="Kaitlyn Brasseur built a scholarly edition of medieval texts held by Carleton's MacOdrum Library" %}
 
 {% include feature/image.html objectid="hist_339" width="100" caption="Jenna Emslie designed a video game to immerse the player in the world of Ontario's Gold Fields" %}
 
@@ -32,7 +32,7 @@ We will also be looking at themes in student research over the years since 1958,
 
 ## Place holder images
 
-Place holder images used throughout are photographs or drawings of Paterson Hall, the home of the History Department, from the Carleton University [Archives and Special Collections online exhibit](https://asc.library.carleton.ca/exhibits/whats_in_a_name/paterson).
+Place holder images used throughout are photographs or drawings of Paterson Hall, the home of the History Department, from the Carleton University [Archives and Special Collections online exhibit](https://web.archive.org/web/20210521052634/https://asc.library.carleton.ca/exhibits/whats_in_a_name/paterson).
 
 ## Contact
 
